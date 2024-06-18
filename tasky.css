@@ -1,0 +1,13 @@
+.body {
+  background-color: #D2E3C8;
+}
+
+.navbar-brand {
+  font-weight: bolder;
+  font-size: 27px;
+}
+
+.nav-item {
+  font-weight: bold;
+  font-size: 20px;
+}
